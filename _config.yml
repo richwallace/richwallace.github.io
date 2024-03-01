@@ -51,8 +51,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rich and I'm a senior integration software developer for PulteGroup, Inc.  Along with developing robust, enterprise system and data integration solutions, I also have extensive experience with Microsoft Azure and creating cloud-based solutions.  
   As dev lead, I am responsible for ensuring that development practices, coding standards, and solution delivery is as efficient as possible within not only my immediate team, but with other software development verticals that interface and communicate with our enterprise-wide APIs and other offerings.  
 
-  I am most skilled in: <mark>C#</mark>, <mark>ASP.NET Web API</mark>, <mark>Microsoft and Azure SQL</mark>, <mark>Azure Data Factory, Azure Functions</mark>, <mark>Message based architecture with Azure Event Grid, Azure Service Bus, and Dape Pub/Sub</mark>.
-
+  I am most skilled in such development areas as: <mark>C#</mark>, <mark>ASP.NET Web API</mark>, <mark>Microsoft and Azure SQL</mark>, <mark>Azure Data Factory, Azure Functions</mark>, <mark>Message based architecture with Azure Event Grid, Azure Service Bus, and Dape Pub/Sub</mark>.
+  Working with many other development teams and continous training has assisted in gaining critical teamwork and leadership skills in high-profile projects and communication with senior leadership.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
