@@ -61,7 +61,7 @@ content:
         title: Enterprise Data Hub
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
+        # additional_links:
           # - title:  sproogen/modern-resume-theme
           #   icon: fab fa-github
           #   url: github.com/sproogen/modern-resume-theme
