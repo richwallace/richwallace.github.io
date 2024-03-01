@@ -112,26 +112,44 @@ content:
     content:
       - layout: left
         title: InterfaceTT
-        link: interfacett.com/
-        # link_text: boringcompany.com
+        link: interfacett.com
+        link_text: interfacett.com
         sub_title: Project Management (PMP)
         caption: May 2011
         quote: >
           Project Management Professional Certification Prep
         description: | # this will include new lines to allow paragraphs
             Although I had no intentions of becoming a project manager, I had interest in growing my career as a leader in the software development world, and based on how the software development lifecycle continues on, it made sense to learn and understand how to manage projects and use those skills in my path to greatness.
-            
+
+      - layout: left
+        title: InterfaceTT
+        link: interfacett.com
+        link_text: interfacett.com
+        sub_title: Project Management (PMP)
+        caption: May 2011
+        quote: >
+          AZ-204T00-A - Developing Solutions for Microsoft Azure
+        description: | # this will include new lines to allow paragraphs
+            Create end-to-end solutions in Microsoft Azure.  Learned how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure solutions by using KeyVault and Managed Identities.
+
+  - title: Professional Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      As part of building my professional career and feeding my interests in software development, here are some of my other skiils:
+      - Azure / Cloud Development and Administration
+      - ASP.NET Web API w/OData and Azure SQL
+      - NoSQL databases, such as CosmosDd and MongoDb
+      - Microsoft SQL Server InNtegration Services and Azure Data Factory
+      - Azure Service Bus and Azure Event Grid
+      - Azure Logic Apps and Functions
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in technology and software engineering, some of my other interests and hobbies are:
+      - Weight lifting
+      - PC gaming and streaming
+      - Hanging out with my kids, grandkids, and my Chihuahua
 
 # Footer
 footer_show_references: true
