@@ -30,7 +30,7 @@ linkedin_username: richwallace
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
+# additional_links:
 # - title: itsgoingto.be
 #   icon: fas fa-globe
 #   url: https://www.itsgoingto.be
@@ -59,15 +59,6 @@ content:
     content:
       - layout: top-middle
         title: Enterprise Data Hub
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-          #   icon: fab fa-github
-          #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Flagship integration solution utilizing a microsoervices and distributed application architecture with ASP.NET Web API, C#, Dotnet 8, OData, Azure SQL, Azure Service Bus
         description: | # this will include new lines to allow paragraphs
